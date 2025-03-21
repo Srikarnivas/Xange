@@ -1,1 +1,2 @@
-# Xange
+# Xange      
+This project builds an  NFT-based subscription system on Algorand, where users purchase NFTs as access passes for exclusive content (videos, blogs, courses). A smart contract checks ownership prior to granting access, and NFTs can expire or be resold. Payments are in ALGO, and content is hosted on IPFS.  The system removes middlemen, provides direct earnings for creators , and provides a simple, scalable, and decentralized solution for digital memberships.
